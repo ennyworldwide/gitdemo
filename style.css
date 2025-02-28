@@ -1,0 +1,27 @@
+
+
+#container {
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.span-1 {
+    background-color: blueviolet;
+    /* padding: 20px; */
+    display: block;
+    margin: 20px;
+}
+.span-2 {
+    background-color: limegreen;
+    padding: 20px;
+    display: block;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    /* letter-spacing: 10px; */
+    word-spacing: 20px;
+}
